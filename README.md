@@ -1,4 +1,4 @@
-![logo](https://github.com/sujata-adhikari/sujata-adhikari/blob/main/Computer%20Seciene.png)
+
 <h1 align="center">I'm Sujata Adhikari</h1>
 <h3 align="center">I am computer science graduate, currently working as Network Engineer at Cargill and passionate about data and machine learning</h3>
 - 🌱 I’m currently learning **React, Django**
