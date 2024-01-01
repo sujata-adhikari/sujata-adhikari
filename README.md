@@ -1,6 +1,6 @@
 
 <h1 align="center">I'm Sujata Adhikari</h1>
-<h3 align="center">I am computer science graduate, UN Voulnteer,  Ex-Network Engineer at Cargill and passionate about data and machine learning</h3>
+<h3 align="center">I am computer science graduate, UN Volunteer,  Ex-Network Engineer at Cargill and passionate about data and machine learning</h3>
 - 🌱 I’m currently learning **React, Django**
 
 - 📫 How to reach me **sujataadhikari2297@gmail.com**
